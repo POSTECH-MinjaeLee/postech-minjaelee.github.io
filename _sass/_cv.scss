@@ -39,6 +39,16 @@ a.btncv:hover {
 }
 
 /*****************************
+ * CV date badge color override
+ *****************************/
+
+.danger-color-dark {
+  background-color: var(--global-theme-color) !important;
+  color: #ffffff !important;
+}
+
+
+/*****************************
  * CV TIME_TABLE styles
  *****************************/
 
