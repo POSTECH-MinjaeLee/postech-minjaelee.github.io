@@ -18,7 +18,7 @@ function determineGiscusTheme() {
 
   let giscusAttributes = {
     src: "https://giscus.app/client.js",
-    "data-repo": "POSTECH-MinjaeLee/lalswo010.github.io",
+    "data-repo": "POSTECH-MinjaeLee/postech-minjaelee.github.io",
     "data-repo-id": "",
     "data-category": "Comments",
     "data-category-id": "",
