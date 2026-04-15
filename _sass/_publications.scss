@@ -116,7 +116,11 @@
           }
         }
         a.award.btn {
+          background-color: var(--global-highlight-color);
+          color: white;
           border-color: var(--global-highlight-color);
+          font-weight: 600;
+          pointer-events: none;
         }
       }
 
