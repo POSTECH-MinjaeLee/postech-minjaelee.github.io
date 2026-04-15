@@ -24,4 +24,4 @@ latest_posts:
 
 I am an M.S.-Ph.D. integrated student in the Department of Computer Science and Engineering at [POSTECH](https://www.postech.ac.kr/), advised by <a href="https://wwplato.github.io/" style="color: var(--global-text-color); font-weight: 700;">Prof. Won Hwa Kim</a> at the Medical Information Processing Lab.
 
-My research interests include **Multi-modal Deep Learning**, **Robotics for Surgery**, **Foundation Models**, and **Vision-Language Action Models**.
+My research interests include **Multi-modal Deep Learning**, **Robotics**, **Foundation Models**, and **Vision-Language Action Models**.

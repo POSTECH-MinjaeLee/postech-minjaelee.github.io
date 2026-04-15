@@ -1,6 +1,5 @@
 cv:
   name: Minjae Lee
-  label: "M.S.-Ph.D. Integrated Student, Computer Science and Engineering, POSTECH"
   email: lalswo010@postech.ac.kr
   location: Pohang, South Korea
 
@@ -24,6 +23,7 @@ cv:
 
       - institution: Incheon Science High School
         location: South Korea
+        area: Science
         studyType: High School Diploma (Early graduation)
         start_date: 2017-03
         end_date: 2019-02
@@ -71,22 +71,22 @@ cv:
     Publications:
       - title: "PR-MaGIC: Prompt Refinement Via Mask Decoder Gradient Flow For In-Context Segmentation"
         authors:
-          - Minjae Lee*
-          - Sungwoo Hur*
+          - '**Minjae Lee**\*'
+          - 'Sungwoo Hur\*'
           - Soojin Hwang
           - Won Hwa Kim
-        publisher: "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)"
-        releaseDate: "2026"
-        summary: "\\* equal contribution"
+        journal: "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) **[Oral]**"
+        date: "2026"
+        summary: "* equal contribution"
 
       - title: "Multi-Modal Graph Neural Network with Transformer-Guided Adaptive Diffusion for Preclinical Alzheimer Classification"
         authors:
           - Jaeyoon Sim
-          - Minjae Lee
+          - "**Minjae Lee**"
           - Guorong Wu
           - Won Hwa Kim
-        publisher: "Medical Image Computing and Computer Assisted Intervention (MICCAI)"
-        releaseDate: "2024"
+        journal: "Medical Image Computing and Computer Assisted Intervention (MICCAI)"
+        date: "2024"
 
     Teaching Experience:
       - company: "Deep Learning (CSED/AIGS 538), POSTECH"
@@ -100,25 +100,16 @@ cv:
         end_date: 2024-12
 
     Skills:
-      - name: Programming
-        icon: fa-solid fa-code
-        keywords:
-          - Python
-          - C/C++
-          - JavaScript
+      - label: Programming
+        details: "Python, C/C++, JavaScript"
 
     Languages:
-      - name: Korean
-        summary: "Native speaker"
+      - label: Korean
+        details: "Native speaker"
 
-      - name: English
-        summary: "Proficient"
+      - label: English
+        details: "Proficient"
 
     Interests:
-      - name: Research Interests
-        icon: fa-solid fa-microscope
-        keywords:
-          - Multi-modal Deep Learning
-          - Robotics for Surgery
-          - Foundation Models
-          - Vision-Language Action Model
+      - label: Research Interests
+        details: "Multi-modal Deep Learning, Robotics, Foundation Models, Vision-Language Action Model"
