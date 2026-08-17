@@ -35,7 +35,7 @@ cv:
         start_date: 2025-10
         end_date: 2026-07
         highlights: 
-         - "AI research for humanoid and VLA"
+         - "Vision-language-action (VLA) models for humanoid"
          - "2026 summer intern poster session 1st place (SHS-VLA: A First Step Toward Trustworthy Healthcare Humanoids)"
 
       - company: Medical Information Processing Lab, POSTECH
