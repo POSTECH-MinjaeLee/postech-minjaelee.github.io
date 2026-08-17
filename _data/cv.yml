@@ -30,9 +30,13 @@ cv:
 
     Experience:
       - company: Siemens Healthineers
-        position: Research Intern (2025.10.13 ~ )
+        position: Research Intern
         location: Princeton, NJ, USA
         start_date: 2025-10
+        end_date: 2026-07
+        highlights: 
+         - AI research for humanoid and VLA
+         - 2026 summer intern poster session 1st place (SHS-VLA: A First Step Toward Trustworthy Healthcare Humanoids)
 
       - company: Medical Information Processing Lab, POSTECH
         position: Research Intern
