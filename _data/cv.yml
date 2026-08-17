@@ -1,3 +1,8 @@
+settings:
+  render_command:
+    design: ../assets/rendercv/design.yaml
+    locale: ../assets/rendercv/locale.yaml
+
 cv:
   name: Minjae Lee
   email: lalswo010@postech.ac.kr
@@ -79,7 +84,7 @@ cv:
           - 'Sungwoo Hur\*'
           - Soojin Hwang
           - Won Hwa Kim
-        journal: "CVPR 2026 **[Oral]**"
+        journal: "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2026 **[Oral]**"
         date: "2026"
         summary: "* equal contribution"
 
@@ -89,7 +94,7 @@ cv:
           - "**Minjae Lee**"
           - Guorong Wu
           - Won Hwa Kim
-        journal: "MICCAI 2024"
+        journal: "Medical Image Computing and Computer Assisted Intervention (MICCAI), 2024"
         date: "2024"
 
     Teaching Experience:
