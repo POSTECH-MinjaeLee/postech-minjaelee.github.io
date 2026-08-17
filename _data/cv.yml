@@ -8,7 +8,7 @@ cv:
       - institution: Pohang University of Science and Technology (POSTECH)
         location: Pohang, South Korea
         area: Computer Science and Engineering
-        studyType: "M.S.-Ph.D. Integrated"
+        degree: "M.S.-Ph.D. Integrated"
         start_date: 2023-09
         highlights:
           - "Medical Information Processing Lab"
@@ -17,14 +17,14 @@ cv:
       - institution: Pohang University of Science and Technology (POSTECH)
         location: Pohang, South Korea
         area: Computer Science and Engineering
-        studyType: B.E.
+        degree: B.E.
         start_date: 2019-02
         end_date: 2023-08
 
       - institution: Incheon Science High School
         location: South Korea
         area: Science
-        studyType: High School Diploma (Early graduation)
+        degree: High School Diploma (Early graduation)
         start_date: 2017-03
         end_date: 2019-02
 
@@ -79,7 +79,7 @@ cv:
           - 'Sungwoo Hur\*'
           - Soojin Hwang
           - Won Hwa Kim
-        journal: "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) **[Oral]**"
+        journal: "CVPR 2026 **[Oral]**"
         date: "2026"
         summary: "* equal contribution"
 
@@ -89,7 +89,7 @@ cv:
           - "**Minjae Lee**"
           - Guorong Wu
           - Won Hwa Kim
-        journal: "Medical Image Computing and Computer Assisted Intervention (MICCAI)"
+        journal: "MICCAI 2024"
         date: "2024"
 
     Teaching Experience:
